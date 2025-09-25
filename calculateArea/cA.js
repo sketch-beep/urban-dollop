@@ -3,7 +3,7 @@ let width;
 
 function cA(){
     length=parseFloat(document.getElementById('length').value);
-    width=paarseFloat(document.getElementById('width').value);
+    width=parseFloat(document.getElementById('width').value);
 
     let area=length*width;
 
